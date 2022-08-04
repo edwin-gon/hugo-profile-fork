@@ -3,6 +3,7 @@
 /static/images
 .vscode
 
+**/.DS_Store
 ### Hugo ###
 # Generated files by hugo
 /public/
